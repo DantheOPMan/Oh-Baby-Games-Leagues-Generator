@@ -17,7 +17,7 @@ def generate_games(names):
     games = []
     player_counts = {name: {'EU': 0, 'NA': 0} for name in names}
 
-    for game_number in range(1, 7):
+    for game_number in range(1, 5):
         available_names = names.copy()
         random.shuffle(available_names)  # Shuffle the names for randomization
 
@@ -33,11 +33,21 @@ def generate_games(names):
 
         # Ensure even distribution of players across regions
         for name in available_names[:]:
-            if player_counts[name]['EU'] < 3 and len(eu_players) < 12:
+            if player_counts[name]['EU'] < 2 and player_counts[name]['NA'] ==2  and len(eu_players) < 12:
                 eu_players.append(name)
                 player_counts[name]['EU'] += 1
                 available_names.remove(name)
-            elif player_counts[name]['NA'] < 3 and len(na_players) < 12:
+            elif player_counts[name]['NA'] < 2 and player_counts[name]['EU'] == 2 and len(na_players) < 12:
+                na_players.append(name)
+                player_counts[name]['NA'] += 1
+                available_names.remove(name)
+
+        for name in available_names[:]:
+            if player_counts[name]['EU'] < 2 and len(eu_players) < 12:
+                eu_players.append(name)
+                player_counts[name]['EU'] += 1
+                available_names.remove(name)
+            elif player_counts[name]['NA'] < 2 and len(na_players) < 12:
                 na_players.append(name)
                 player_counts[name]['NA'] += 1
                 available_names.remove(name)
