@@ -104,7 +104,7 @@ def generate_games(names):
     return games
 
 def main():
-    names = read_names('names.txt')
+    names = read_names('names36.txt')
     games = generate_games(names)
     write_games('games.txt', games)
     player_counts = {name: {'EU': 0, 'NA': 0} for name in names}
