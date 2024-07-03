@@ -74,8 +74,8 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, please contact the Oh Baby Games team at support@ohbabygames.com.
+For any inquiries, please contact the Oh Baby Games team at [support@ohbabygames.com.](https://ohbabygames.com/support) or you can contact me at my email danielyankovich03@gmail.com
