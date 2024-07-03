@@ -78,4 +78,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, please contact the Oh Baby Games team at [support@ohbabygames.com.](https://ohbabygames.com/support) or you can contact me at my email danielyankovich03@gmail.com
+For any inquiries, please contact the Oh Baby Games team at [support@ohbabygames.com.](https://ohbabygames.com/support) or you can contact me at my email danielyankovich03@gmail.com or through the Oh Baby Games discord @dantheopman
