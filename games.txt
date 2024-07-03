@@ -1,0 +1,60 @@
+Game 1:
+  EU Region: shadowe12, Mr Koala, komodochas, flaco, patchani, broccklee, Squiffs, dunder, mrrabbit_NTF, qbzen26_11296, bowtiedfish, doctorschulz
+  NA Region: liqcrux, lunali, anx, iroh, jackhaute, bluebean, jpegg, bobbystick, articoloquinto, julian_42, Just., pizzacat
+  Repeated NA Region: Chrs, ferragamofalcon, kenji.jpg, nion1os, jaxteller, tri, TBD, JoeBrewing, mo, GoalieThom, bennydoggy, arcadeseb
+
+Game 2:
+  EU Region: articoloquinto, jaxteller, tri, broccklee, qbzen26_11296, liqcrux, jpegg, GoalieThom, komodochas, anx, bluebean, lunali
+  NA Region: iroh, JoeBrewing, kenji.jpg, shadowe12, julian_42, mo, doctorschulz, mrrabbit_NTF, bobbystick, bennydoggy, Mr Koala, arcadeseb
+  Repeated EU Region: nion1os, patchani, TBD, flaco, Squiffs, Chrs, Just., pizzacat, bowtiedfish, ferragamofalcon, jackhaute, dunder
+
+Game 3:
+  EU Region: jackhaute, JoeBrewing, Just., articoloquinto, komodochas, tri, mo, ferragamofalcon, Squiffs, julian_42, mrrabbit_NTF, Mr Koala
+  NA Region: TBD, qbzen26_11296, bluebean, jaxteller, pizzacat, broccklee, flaco, bobbystick, iroh, kenji.jpg, bennydoggy, jpegg
+  Repeated NA Region: arcadeseb, dunder, Chrs, anx, patchani, shadowe12, nion1os, liqcrux, doctorschulz, GoalieThom, bowtiedfish, lunali
+
+Game 4:
+  EU Region: kenji.jpg, qbzen26_11296, julian_42, Squiffs, Chrs, doctorschulz, lunali, GoalieThom, Mr Koala, jpegg, komodochas, anx
+  NA Region: broccklee, mo, Just., jaxteller, ferragamofalcon, patchani, nion1os, liqcrux, mrrabbit_NTF, bowtiedfish, shadowe12, bobbystick
+  Repeated EU Region: tri, pizzacat, iroh, dunder, arcadeseb, bennydoggy, bluebean, JoeBrewing, flaco, TBD, jackhaute, articoloquinto
+
+Game 5:
+  EU Region: shadowe12, iroh, jackhaute, pizzacat, qbzen26_11296, kenji.jpg, nion1os, broccklee, JoeBrewing, ferragamofalcon, Chrs, mo
+  NA Region: tri, Squiffs, Mr Koala, bowtiedfish, anx, arcadeseb, lunali, komodochas, doctorschulz, dunder, bluebean, bobbystick
+  Repeated NA Region: patchani, flaco, julian_42, articoloquinto, bennydoggy, GoalieThom, jpegg, TBD, mrrabbit_NTF, Just., liqcrux, jaxteller
+
+Game 6:
+  EU Region: iroh, TBD, komodochas, flaco, GoalieThom, bluebean, arcadeseb, Mr Koala, articoloquinto, shadowe12, bowtiedfish, Chrs
+  NA Region: doctorschulz, lunali, ferragamofalcon, mrrabbit_NTF, liqcrux, julian_42, tri, nion1os, Squiffs, Just., kenji.jpg, bennydoggy
+  Repeated EU Region: JoeBrewing, jaxteller, jackhaute, broccklee, bobbystick, jpegg, pizzacat, dunder, mo, patchani, anx, qbzen26_11296
+
+Game 7:
+  EU Region: jaxteller, GoalieThom, JoeBrewing, lunali, articoloquinto, liqcrux, bennydoggy, dunder, TBD, bobbystick, mo, komodochas
+  NA Region: julian_42, Mr Koala, iroh, bluebean, doctorschulz, pizzacat, Chrs, shadowe12, Squiffs, broccklee, jpegg, bowtiedfish
+  Repeated NA Region: nion1os, mrrabbit_NTF, tri, arcadeseb, jackhaute, ferragamofalcon, qbzen26_11296, anx, patchani, flaco, kenji.jpg, Just.
+
+Game 8:
+  EU Region: bluebean, iroh, mo, qbzen26_11296, shadowe12, bennydoggy, GoalieThom, bowtiedfish, articoloquinto, Just., mrrabbit_NTF, Mr Koala
+  NA Region: komodochas, lunali, arcadeseb, liqcrux, jackhaute, bobbystick, jpegg, doctorschulz, Squiffs, JoeBrewing, julian_42, kenji.jpg
+  Repeated EU Region: TBD, patchani, dunder, Chrs, flaco, ferragamofalcon, tri, broccklee, jaxteller, pizzacat, anx, nion1os
+
+Game 9:
+  EU Region: arcadeseb, bobbystick, doctorschulz, kenji.jpg, julian_42, liqcrux, pizzacat, shadowe12, iroh, Mr Koala, jpegg, TBD
+  NA Region: dunder, articoloquinto, qbzen26_11296, komodochas, nion1os, JoeBrewing, mrrabbit_NTF, flaco, mo, broccklee, jaxteller, Chrs
+  Repeated NA Region: patchani, ferragamofalcon, Just., tri, bowtiedfish, GoalieThom, bluebean, lunali, anx, Squiffs, bennydoggy, jackhaute
+
+Game 10:
+  EU Region: kenji.jpg, lunali, mrrabbit_NTF, Just., bennydoggy, bobbystick, nion1os, liqcrux, arcadeseb, doctorschulz, julian_42, jackhaute
+  NA Region: TBD, dunder, Mr Koala, articoloquinto, komodochas, qbzen26_11296, pizzacat, jaxteller, flaco, GoalieThom, broccklee, ferragamofalcon
+  Repeated EU Region: tri, patchani, bowtiedfish, bluebean, anx, Chrs, shadowe12, Squiffs, JoeBrewing, jpegg, mo, iroh
+
+Game 11:
+  EU Region: arcadeseb, nion1os, jaxteller, kenji.jpg, ferragamofalcon, bobbystick, mrrabbit_NTF, doctorschulz, Just., lunali, liqcrux, julian_42
+  NA Region: articoloquinto, JoeBrewing, komodochas, Chrs, Mr Koala, iroh, qbzen26_11296, pizzacat, TBD, jackhaute, dunder, mo
+  Repeated NA Region: Squiffs, bowtiedfish, flaco, bluebean, tri, GoalieThom, anx, jpegg, broccklee, patchani, bennydoggy, shadowe12
+
+Game 12:
+  EU Region: bennydoggy, Just., liqcrux, tri, lunali, anx, kenji.jpg, ferragamofalcon, Squiffs, julian_42, patchani, arcadeseb
+  NA Region: Chrs, shadowe12, mo, qbzen26_11296, TBD, dunder, jackhaute, articoloquinto, komodochas, Mr Koala, JoeBrewing, pizzacat
+  Repeated EU Region: flaco, bobbystick, bowtiedfish, mrrabbit_NTF, broccklee, nion1os, bluebean, jpegg, doctorschulz, jaxteller, GoalieThom, iroh
+
